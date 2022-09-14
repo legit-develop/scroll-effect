@@ -23,6 +23,7 @@ h1 {
 p {
   color: grey;
 }
+
 @media (max-width: 500px) {
   .container {
     padding: 10px;
